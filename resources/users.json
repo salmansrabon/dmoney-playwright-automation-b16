@@ -1,0 +1,74 @@
+[
+  {
+    "fullName": "Guadalupe Dickinson II",
+    "email": "salmansrabon+3702@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01209402230",
+    "nid": "123456789",
+    "role": "Customer"
+  },
+  {
+    "fullName": "Tamara Kulas",
+    "email": "salmansrabon+1569@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01208822361",
+    "nid": "123456789",
+    "role": "Agent"
+  },
+  {
+    "fullName": "Luke Stracke",
+    "email": "salmansrabon+7137@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01208217297",
+    "nid": "123456789",
+    "role": "Agent"
+  },
+  {
+    "fullName": "Beverly Breitenberg",
+    "email": "salmansrabon+1743@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01201753208",
+    "nid": "123456789",
+    "role": "Agent"
+  },
+  {
+    "fullName": "Tanya Stiedemann Jr.",
+    "email": "salmansrabon+8945@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01205204596",
+    "nid": "123456789",
+    "role": "Agent"
+  },
+  {
+    "fullName": "Danny Wuckert I",
+    "email": "salmansrabon+9862@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01204940494",
+    "nid": "123456789",
+    "role": "Agent"
+  },
+  {
+    "fullName": "Dr. Jesse Hahn",
+    "email": "salmansrabon+7338@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01206838737",
+    "nid": "123456789",
+    "role": "Agent"
+  },
+  {
+    "fullName": "Annie Heathcote",
+    "email": "salmansrabon+6511@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01201800079",
+    "nid": "123456789",
+    "role": "Agent"
+  },
+  {
+    "fullName": "Patty Kulas",
+    "email": "salmansrabon+4873@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01202920226",
+    "nid": "123456789",
+    "role": "Agent"
+  }
+]

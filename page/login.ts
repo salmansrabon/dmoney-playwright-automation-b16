@@ -1,4 +1,5 @@
 import { Page } from "@playwright/test";
+import { getLastUser } from "../utils/utils";
 
 export class LoginPage {
   constructor(private page: Page) {}

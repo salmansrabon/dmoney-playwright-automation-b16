@@ -1,0 +1,74 @@
+[
+  {
+    "fullName": "Alvin Cummerata-Wolff",
+    "email": "salmansrabon+7683@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01302621992",
+    "nid": "571227547",
+    "role": "Customer"
+  },
+  {
+    "fullName": "Roman Becker",
+    "email": "salmansrabon+2469@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01301670826",
+    "nid": "819381971",
+    "role": "Customer"
+  },
+  {
+    "fullName": "Rex Collins",
+    "email": "salmansrabon+9668@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01307998974",
+    "nid": "738970048",
+    "role": "Customer"
+  },
+  {
+    "fullName": "Irvin Trantow",
+    "email": "salmansrabon+5554@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01301271203",
+    "nid": "277798239",
+    "role": "Customer"
+  },
+  {
+    "fullName": "Stacey Murray",
+    "email": "salmansrabon+6947@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01301935117",
+    "nid": "251074306",
+    "role": "Customer"
+  },
+  {
+    "fullName": "William Bernier",
+    "email": "customer2@test.com",
+    "password": "1234",
+    "phoneNumber": "01305658477",
+    "nid": "142132096",
+    "role": "Customer"
+  },
+  {
+    "fullName": "Jeffrey Hilll",
+    "email": "salmansrabon+4848@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01302601158",
+    "nid": "952418115",
+    "role": "Customer"
+  },
+  {
+    "fullName": "Duane Donnelly",
+    "email": "salmansrabon+1577@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01301258152",
+    "nid": "196032421",
+    "role": "Customer"
+  },
+  {
+    "fullName": "Anna Langosh",
+    "email": "salmansrabon+1516@gmail.com",
+    "password": "1234",
+    "phoneNumber": "01302940938",
+    "nid": "285357277",
+    "role": "Customer"
+  }
+]

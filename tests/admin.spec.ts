@@ -46,7 +46,7 @@ test.describe.serial(async () => {
       password: "1234",
       phoneNumber: `0120${genearateRandomNumber(1000000, 9999999)}`,
       nid: "123456789",
-      role: Role.Agent,
+      role: Role.Customer,
     };
     await user.createUser(userData);
     saveJsonData(userData, "resources/users.json");
